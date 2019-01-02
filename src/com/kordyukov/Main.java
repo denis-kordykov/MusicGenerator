@@ -13,7 +13,7 @@ public class Main {
     public static void main(String[] args) {
         int a,a1,a2;
 
-        new NewFrame();
+        //new NewFrame();
 
         ThreadP potok = new ThreadP();
         Thread Drums = new Thread(potok);
